@@ -7,6 +7,11 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
+  "engines": {
+    "node": "13.7.0",
+    "yarn": "1.21.1",
+    "npm": "6.13.6"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
